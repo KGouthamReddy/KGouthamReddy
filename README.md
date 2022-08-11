@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KGouthamReddy
-- 👀 I’m interested in Front End Web Development and Data Science
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on which a model can help for future generations.
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning How to become a Java Full Stack Developer Expert
+- 💞️ I’m looking to collaborate on which an idea can help for future generations.
 - 📫 You can reach me by sending an email(goutham3560@gmail.com).
 
 <!---
